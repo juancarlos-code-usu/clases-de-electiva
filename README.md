@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 Sobre el proyecto
+## 💻 Sobre el proyecto
 
 Este repositorio contiene los **trabajos, ejercicios, prácticas y proyectos desarrollados durante la asignatura de todo este semestre**
 
