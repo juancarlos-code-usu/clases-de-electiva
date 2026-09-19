@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre el proyecto
 
-Este repositorio contiene los **trabajos, ejercicios, prácticas y proyectos desarrollados durante la asignatura de todo el semestre** del programa de **Técnico Informático**.
+Este repositorio contiene los **trabajos, ejercicios, prácticas y proyectos desarrollados durante la asignatura de todo este semestre**
 
 El objetivo es aplicar de manera práctica los conocimientos adquiridos en **programación, lógica computacional, desarrollo de software y herramientas tecnológicas**
  atraves del desarrollo de un video juego el cual se desarrollara progresiva mente en las clases
